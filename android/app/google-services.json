@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "452391772096",
+    "project_id": "first-firebase-87667",
+    "storage_bucket": "first-firebase-87667.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452391772096:android:ce42e58a12e210d5ec7225",
+        "android_client_info": {
+          "package_name": "com.asif.climate.climate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452391772096-ocjv9h3m0bhmq7845pqu88orft4gjfd9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asif.climate.climate",
+            "certificate_hash": "3f567f78a755174668fbc44bb58005eba088c820"
+          }
+        },
+        {
+          "client_id": "452391772096-bed6if3h5rj5gv9u3r6gocp2uscb45tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWn4OCZpXxkfyqD_XVVda2Z96Sx1wUj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452391772096-bed6if3h5rj5gv9u3r6gocp2uscb45tc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "452391772096-noiq6grtlj40a6qg90eth96g8vips8lr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asif.climate.climate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452391772096:android:c153100b6148ad8dec7225",
+        "android_client_info": {
+          "package_name": "com.example.firebase_new"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452391772096-bed6if3h5rj5gv9u3r6gocp2uscb45tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWn4OCZpXxkfyqD_XVVda2Z96Sx1wUj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452391772096-bed6if3h5rj5gv9u3r6gocp2uscb45tc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "452391772096-noiq6grtlj40a6qg90eth96g8vips8lr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asif.climate.climate"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:452391772096:android:54be3ed7aa481ea7ec7225",
+        "android_client_info": {
+          "package_name": "com.productbox.movies.productboxassessment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "452391772096-bed6if3h5rj5gv9u3r6gocp2uscb45tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVWn4OCZpXxkfyqD_XVVda2Z96Sx1wUj8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "452391772096-bed6if3h5rj5gv9u3r6gocp2uscb45tc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "452391772096-noiq6grtlj40a6qg90eth96g8vips8lr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asif.climate.climate"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
